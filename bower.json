@@ -1,0 +1,24 @@
+{
+  "name": "ga_pres_practice",
+  "version": "0.0.0",
+  "authors": [
+    "David Fox-Powell <dtothefp@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "angular": "latest",
+    "angular-route": "*",
+    "webshim": "https://github.com/aFarkas/webshim.git#~1.12.4"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
